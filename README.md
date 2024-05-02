@@ -23,3 +23,5 @@ JS DOM and Error Handling: https://chat.openai.com/c/5d0a7d3f-1bfa-494a-b1bf-e21
 JS Classes, Constructors and Inheritnce : https://chat.openai.com/c/8b826650-1adc-4b02-a901-73ddd7fcff57
 ------------------------------------------------------------------------
 JS ES6 Overview: https://chat.openai.com/c/3a2a1b25-a997-44ea-8ee5-b2506bb36cf4
+
+HTML+ CSS: https://chat.openai.com/c/e4c8a715-738c-447a-a80d-4c84f806ec3f
